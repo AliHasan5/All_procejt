@@ -1,0 +1,43 @@
+h3{
+    color: red;
+    background-color: black;
+    text-align: center
+
+}   
+.text{
+    color: blue;
+    background-color: green;
+}
+p{
+    color: darkblue;
+}
+.huseyn{
+    color: saddlebrown;
+}
+b{
+    color: brown;
+    background-color: blue;
+}
+.aydin{
+    color: yellow
+}
+s{
+    color: blue;
+    background-color: yellow
+}
+.sil{
+    color: brown;
+    background-color: greenyellow;
+    font-size: 30px;
+}
+input{
+    color: blue;
+    background-color: brown;
+    font-size: 30px;
+}
+.noyabr{
+    color: tomato;
+    background-color: forestgreen;
+    font-size: 40px;
+    
+}
